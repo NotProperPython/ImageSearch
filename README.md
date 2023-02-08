@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Image Search
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses user input in the search bar to fetch images from Unsplash API
 
 ## Available Scripts
 
